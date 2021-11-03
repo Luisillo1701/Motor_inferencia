@@ -1,2 +1,2 @@
 # Motor_inferencia
-Parctica 2, sistemas expertos
+Practica 2, sistemas expertos
